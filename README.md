@@ -1,10 +1,15 @@
 ## Olá eu sou o Gabriel Navarro Germano
 
-![gabrielnavarrogermano-code's Stats](https://github-readme-stats.vercel.app/api?username=gabrielnavarrogermano-code&theme=dark&show_icons=true&hide_border=true&count_private=true)
+- 👨‍💻 Estudante De Engenharia de Software com foco em dados
 
-<div style="display: inline_block"><br>
- <img align="center" alt="Gabriel-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+📊 Github Stats
+<div align="center">
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielnavarrogermano-code&show_icons=true&theme=dark&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnavarrogermano-code&layout=compact&theme=dark&hide_border=true"/>
+
+</div>
 
           
           
