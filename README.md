@@ -16,10 +16,10 @@ Construir uma carreira nas áreas de Engenharia de Dados e Desenvolvimento de So
 ## 🛠️ Tecnologias
 
 <div>
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode," />
 </div>
 
-📊 Github Stats
+## 📊 Github Stats
 <div align="center">
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielnavarrogermano-code&show_icons=true&theme=dark&hide_border=true"/>
