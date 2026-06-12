@@ -25,6 +25,15 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
-          
+ 
+
+ 
+🐍 Minhas Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielnavarrogermano-code/gabrielnavarrogermano-code/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielnavarrogermano-code/gabrielnavarrogermano-code/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielnavarrogermano-code/gabrielnavarrogermano-code/output/github-contribution-grid-snake.svg">
+</picture>         
           
 
