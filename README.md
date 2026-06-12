@@ -1,7 +1,23 @@
-## Olá eu sou o Gabriel Navarro Germano
+# Olá, eu sou Gabriel Navarro Germano 
 
-- 👨‍💻 Estudante De Engenharia de Software
-- 📚 Aprendendo sobre Python para Análise De Dados
+🎓 Estudante de Engenharia de Software (1º semestre)
+
+💻 Atualmente aprendendo:
+- Python
+- Análise de Dados
+- Lógica de Programação
+- Banco de Dados
+
+🚀 Objetivo:
+Construir uma carreira nas áreas de Engenharia de Dados e Desenvolvimento de Software.
+
+📚 Sempre buscando aprender novas tecnologias e desenvolver projetos práticos.
+
+## 🛠️ Tecnologias
+
+<div>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql" />
+</div>
 
 📊 Github Stats
 <div align="center">
