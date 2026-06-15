@@ -5,8 +5,8 @@
 💻 Atualmente aprendendo:
 - Python
 - Excel
-- Análise de Dados
 - Banco de Dados/SQL
+- Análise de Dados
 
 🚀 Objetivo:
 Construir uma carreira nas áreas de Dados e Desenvolvimento de Software.
