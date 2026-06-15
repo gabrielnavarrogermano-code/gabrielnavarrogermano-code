@@ -11,7 +11,6 @@
 🚀 Objetivo:
 Construir uma carreira nas áreas de Dados e Desenvolvimento de Software.
 
-📚 Sempre buscando aprender novas tecnologias e desenvolver projetos práticos.
 
 ## 🛠️ Tecnologias
 
