@@ -6,7 +6,6 @@
 - Python
 - Excel
 - Análise de Dados
-- Lógica de Programação
 - Banco de Dados/SQL
 
 🚀 Objetivo:
