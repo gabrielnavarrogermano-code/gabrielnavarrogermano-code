@@ -41,10 +41,3 @@ Construir uma carreira nas áreas de Dados e Desenvolvimento de Software.
   </a>
 </p>
  
-## 🐍 Contribuições
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/gabrielnavarrogermano-code/gabrielnavarrogermano-code/output/github-contribution-grid-snake-dark.svg)
-
-</div>
