@@ -40,4 +40,9 @@ Construir uma carreira nas áreas de Dados e Desenvolvimento de Software.
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p> 
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielnavarrogermano-code/gabrielnavarrogermano-code/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub Streak" src="https://raw.githubusercontent.com/gabrielnavarrogermano-code/gabrielnavarrogermano-code/output/github-contribution-grid-snake.svg">
+</picture>
+
  
