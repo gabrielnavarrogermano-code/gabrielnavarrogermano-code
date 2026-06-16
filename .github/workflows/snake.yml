@@ -4,9 +4,9 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-permissions:
-    contents: write
 
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -17,9 +17,8 @@ jobs:
         with:
           github_user_name: gabrielnavarrogermano-code
           outputs: dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
