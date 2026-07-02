@@ -14,12 +14,16 @@
 🚀 Objetivo:
 Construir uma carreira nas áreas de Dados e Desenvolvimento de Software.
 
+<p align="left">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 
 ## 🛠️ Tecnologias
 
 <div>
 <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode," />
 </div>
+
+<p align="left">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 📊 Github Stats
 
@@ -30,6 +34,8 @@ Construir uma carreira nas áreas de Dados e Desenvolvimento de Software.
 <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielnavarrogermano-code&langs_count=5&theme=tokyonight" />
 </div>
 <div align="center">
+
+<p align="left">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <h3>📫 Conecte-se comigo</h3>
 
@@ -46,7 +52,7 @@ Construir uma carreira nas áreas de Dados e Desenvolvimento de Software.
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
-
+<p align="left">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielnavarrogermano-code/gabrielnavarrogermano-code/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielnavarrogermano-code/gabrielnavarrogermano-code/output/github-contribution-grid-snake-dark.svg">
