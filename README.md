@@ -24,14 +24,11 @@ Construir uma carreira nas áreas de Dados e Desenvolvimento de Software.
 ## 📊 Github Stats
 
 <div align="center">
-
 <a href="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code">
-    <img height="150em" src="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code&text_color=000000&title_color=000000&icon_color=000000" />
+    <img height="150em" src="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code&theme=tokyonight" />
 </a>
-
-<img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielnavarrogermano-code&langs_count=5&text_color=000000&title_color=000000" />
+<img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielnavarrogermano-code&langs_count=5&theme=tokyonight" />
 </div>
-
 <div align="center">
 
 <h3>📫 Conecte-se comigo</h3>
