@@ -21,7 +21,7 @@ Construir uma carreira nas áreas de Dados e Desenvolvimento de Software.
 <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode," />
 </div>
 
-## 📊 Stats
+## 📊 Github Stats
 
 <div align="center">
 
