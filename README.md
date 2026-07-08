@@ -5,15 +5,6 @@
 
 🎓 Estudante de Engenharia de Software (2º semestre)
 
-💻 Atualmente aprendendo:
-- Python
-- Excel
-- Banco de Dados/SQL
-- Análise de Dados
-
-🚀 Objetivo:
-Construir uma carreira nas áreas de Dados e Desenvolvimento de Software.
-
 
 ### 🛠️ Minhas Habilidades & Tecnologias
 
