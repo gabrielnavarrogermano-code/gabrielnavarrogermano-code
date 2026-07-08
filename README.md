@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Navarro Germano 
 
-### 👋 Sobre mim
+### 👋 Bem Vindo(a) ao meu perfil
 - 🎓 Estudante de Engenharia de Software (2º semestre)
 - 👨‍💻 Atualmente sou Estagiário de TI
 - 📊 Focado em Análise de Dados
