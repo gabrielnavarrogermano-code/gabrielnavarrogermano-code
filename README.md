@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Analista+De+Dados;Business+Intelligence;Insights+através+de+dados;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Análise+De+Dados;Business+Intelligence;Insights+através+de+dados;" alt="Typing SVG" />
 </div>
 
 ### 👋 Olá, eu sou Gabriel Navarro Germano, Bem Vindo(a) ao meu perfil
