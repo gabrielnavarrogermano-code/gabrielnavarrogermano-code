@@ -5,6 +5,7 @@
 
 ### 👋 Sobre mim
 - 🎓 Estudante de Engenharia de Software (2º semestre)
+- 👨‍💻 Atualamente sou Estagiário de TI
 - 📊 Focado em Análise de Dados
 - 🔭 Atualmente aprendendo: Python, SQL e Power BI aplicados a dados reais
 - 🌱 Praticando: organização de dados com Python e SQL
