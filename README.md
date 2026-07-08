@@ -15,12 +15,20 @@
 Construir uma carreira nas áreas de Dados e Desenvolvimento de Software.
 
 
-## 🛠️ Tecnologias
+### 🛠️ Minhas Habilidades & Tecnologias
 
-<div>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode," />
-</div>
+#### 💻 Desenvolvimento & Programação
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+#### 📊 Dados, BI & Inteligência Artificial
+- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- ![Data Science](https://img.shields.io/badge/Data_Science-20B2AA?style=for-the-badge)
+
+#### 🔧 Ferramentas & Controle de Versão
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 Github Stats
 
