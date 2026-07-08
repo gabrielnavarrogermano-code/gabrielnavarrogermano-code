@@ -11,7 +11,7 @@
 - 📊 Focado em Análise de Dados
 - 🔭 Atualmente aprofundando conhecimentos em Python, SQL e Power BI para análise e visualização de dados.
 - 🌱 Praticando: organização de dados com Python e SQL
-- 📚 Uso este perfil pra documentar minha constante evolução na prática
+- 📚 Compartilho aqui meus estudos, projetos e evolução na área de Dados.
 
 ### 🛠️ Minhas Habilidades & Tecnologias
 
