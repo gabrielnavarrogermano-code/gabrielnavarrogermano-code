@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Análise+De+Dados;Business+Intelligence;Insights+através+de+dados;" alt="Typing SVG" />
 </div>
 
-### 👋 Olá, eu sou Gabriel Navarro Germano, Bem Vindo(a) ao meu perfil
+#### 👋 Olá, eu sou Gabriel Navarro Germano, Bem Vindo(a) ao meu perfil
 - 🎓 Estudante de Engenharia de Software (2º semestre)
 - 👨‍💻 Atualmente sou Estagiário de TI
 - 📊 Focado em Análise de Dados
@@ -13,10 +13,10 @@
 - 🌱 Praticando: organização de dados com Python e SQL
 - 📚 Compartilho aqui meus estudos, projetos e evolução na área de Dados.
 
-### 🚀 Objetivo
+#### 🚀 Objetivo
 
 Busco desenvolver soluções orientadas por dados utilizando Python, SQL e Power BI para transformar informações em decisões estratégicas e gerar valor para os negócios.
-### 🛠️ Minhas Habilidades & Tecnologias
+## 🛠️ Habilidades & Tecnologias
 
 #### 💻 Desenvolvimento & Programação
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
