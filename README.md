@@ -3,18 +3,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" alt="Coding GIF"/>
 </div>
 
-🎓 Estudante de Engenharia de Software (2º semestre)
 ### 👋 Sobre mim
 
 Sou estudante de Engenharia de Software (2º semestre) na Unicesumar, em
 Maringá/PR, direcionando meus estudos para Análise de Dados. Uso este
 perfil pra documentar essa evolução na prática — cada repositório aqui é
-um passo a mais nessa construção. Meu objetivo agora é conquistar meu
-primeiro estágio na área.
+um passo a mais nessa construção. Meu objetivo é me aprofundar na área de Dados a fim de construir uma carreira sólida na mesma.
 
 - 🔭 Atualmente aprendendo: SQL e Power BI aplicados a dados reais
 - 🌱 Praticando: automação e organização de dados com Python
-- 📫 Aberto a oportunidades de estágio em Análise de Dados / TI
 
 ### 🛠️ Minhas Habilidades & Tecnologias
 
