@@ -4,7 +4,17 @@
 </div>
 
 🎓 Estudante de Engenharia de Software (2º semestre)
+### 👋 Sobre mim
 
+Sou estudante de Engenharia de Software (2º semestre) na Unicesumar, em
+Maringá/PR, direcionando meus estudos para Análise de Dados. Uso este
+perfil pra documentar essa evolução na prática — cada repositório aqui é
+um passo a mais nessa construção. Meu objetivo agora é conquistar meu
+primeiro estágio na área.
+
+- 🔭 Atualmente aprendendo: SQL e Power BI aplicados a dados reais
+- 🌱 Praticando: automação e organização de dados com Python
+- 📫 Aberto a oportunidades de estágio em Análise de Dados / TI
 
 ### 🛠️ Minhas Habilidades & Tecnologias
 
