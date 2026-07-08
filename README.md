@@ -13,6 +13,9 @@
 - 🌱 Praticando: organização de dados com Python e SQL
 - 📚 Compartilho aqui meus estudos, projetos e evolução na área de Dados.
 
+### 🚀 Objetivo
+
+Busco desenvolver soluções orientadas por dados utilizando Python, SQL e Power BI para transformar informações em decisões estratégicas e gerar valor para os negócios.
 ### 🛠️ Minhas Habilidades & Tecnologias
 
 #### 💻 Desenvolvimento & Programação
