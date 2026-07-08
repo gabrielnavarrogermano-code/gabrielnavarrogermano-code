@@ -37,6 +37,9 @@ Busco desenvolver soluções orientadas por dados utilizando Python, SQL e Power
     <img height="150em" src="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code&theme=tokyonight" />
 </a>
   <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielnavarrogermano-code&langs_count=5&theme=tokyonight" />
+</a>
+  <img height="150em" src="https://streak-stats.demolab.com?user=gabrielnavarrogermano-code&theme=tokyonight" />
+</a>
 </div>
 
 <div align="center">
