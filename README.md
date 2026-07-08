@@ -1,3 +1,4 @@
+
 # Olá, eu sou Gabriel Navarro Germano 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Analista+De+Dados;Business+Intelligence;Dados+para+decisões+estrátegicas;" alt="Typing SVG" />
