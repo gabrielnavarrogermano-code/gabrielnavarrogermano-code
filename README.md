@@ -33,15 +33,13 @@ Busco desenvolver soluções orientadas por dados utilizando Python, SQL e Power
 ## 📊 Github Stats
 
 <div align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code&theme=tokyonight"
-      height="150"
-      alt="GitHub Stats"
-    />
+<a href="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code">
+    <img height="150em" src="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code&theme=tokyonight" />
+</a>
+<img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielnavarrogermano-code&langs_count=5&theme=tokyonight" />
 </div>
-<div align="center">
 
+<div align="center">
 
 <h3>📫 Conecte-se comigo</h3>
 
