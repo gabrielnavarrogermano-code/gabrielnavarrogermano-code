@@ -45,11 +45,11 @@ Atuar ativamente na construção de soluções orientadas a dados. Meu propósit
 
 <div align="center">
 <a href="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code">
-    <img height="150em" src="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code&theme=tokyonight" />
+    <img height="150em" src="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code&theme=nightowl" />
 </a>
-  <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielnavarrogermano-code&langs_count=5&theme=tokyonight" />
+  <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielnavarrogermano-code&langs_count=5&theme=nightowl" />
 </a>
-  <img height="150em" src="https://streak-stats.demolab.com?user=gabrielnavarrogermano-code&theme=tokyonight" />
+  <img height="150em" src="https://streak-stats.demolab.com?user=gabrielnavarrogermano-code&theme=nightowl" />
 </a>
 </div>
 
