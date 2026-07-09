@@ -5,17 +5,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Análise+De+Dados;Business+Intelligence;Insights+através+de+dados;" alt="Typing SVG" />
 </div>
 
-#### 👋 Olá, eu sou Gabriel Navarro Germano, Bem Vindo(a) ao meu perfil
-- 🎓 Estudante de Engenharia de Software (2º semestre)
-- 👨‍💻 Atualmente sou Estagiário de TI
-- 📊 Focado em Análise de Dados
-- 🔭 Atualmente aprofundando conhecimentos em Python, SQL e Power BI para análise e visualização de dados.
-- 🌱 Praticando: organização de dados com Python e SQL
-- 📚 Compartilho aqui meus estudos, projetos e evolução na área de Dados.
+### Gabriel Navarro Germano
 
-#### 🚀 Objetivo
+Data Analysis | Software Engineering | IT Professional
 
-Busco desenvolver soluções orientadas por dados utilizando Python, SQL e Power BI para transformar informações em decisões estratégicas e gerar valor para os negócios.
+Sou estudante de Engenharia de Software na UniCesumar e atuo como Estagiário de TI, desenvolvendo uma carreira voltada para o ecossistema de dados. Busco constantemente alinhar minha base acadêmica em engenharia com a área de Ciência de Dados, Inteligência Artificial e ferramentas de Business Intelligence.
+
+Sobre o meu trabalho:
+
+Análise e Visualização: Experiência prática na estruturação de dados e criação de dashboards interativos para facilitar a tomada de decisão.
+
+Portfólio: Este repositório reflete minha trajetória técnica, consolidando projetos práticos de modelagem, limpeza e extração de insights a partir de dados.
+
+Objetivo:
+Atuar ativamente na construção de soluções orientadas a dados. Meu propósito é utilizar a tecnologia e a análise analítica para otimizar processos, identificar tendências e fornecer suporte estratégico para a geração de valor corporativo.
+
 ## 🛠️ Habilidades & Tecnologias
 
 #### 💻 Desenvolvimento & Programação
