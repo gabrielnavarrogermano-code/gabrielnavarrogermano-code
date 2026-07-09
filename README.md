@@ -44,13 +44,11 @@ Atuar ativamente na construção de soluções orientadas a dados. Meu propósit
 ### 📊 Github Stats
 
 <div align="center">
-<a href="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code">
-    <img height="150em" src="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code&theme=nightowl" />
-</a>
-  <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielnavarrogermano-code&langs_count=5&theme=nightowl" />
-</a>
-  <img height="150em" src="https://streak-stats.demolab.com?user=gabrielnavarrogermano-code&theme=nightowl" />
-</a>
+  <a href="https://github.com/gabrielnavarrogermano-code">
+    <img height="150em" src="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&ring_color=ffffff" />
+  </a>
+  <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielnavarrogermano-code&langs_count=5&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" />
+  <img height="150em" src="https://streak-stats.demolab.com/?user=gabrielnavarrogermano-code&background=000000&text=ffffff&dates=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff" />
 </div>
 
 <div align="center">
