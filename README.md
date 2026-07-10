@@ -13,7 +13,7 @@ Sou estudante de Engenharia de Software na UniCesumar e atuo como Estagiário de
 
 ---
 
-### 💼 Sobre o meu trabalho
+###  Sobre o meu trabalho
 
 * **Análise e Visualização:** Experiência prática na estruturação de dados e criação de dashboards interativos para facilitar a tomada de decisão.
 * **Portfólio:** Este repositório reflete minha trajetória técnica, consolidando projetos práticos de modelagem, limpeza e extração de insights a partir de dados.
@@ -21,7 +21,7 @@ Sou estudante de Engenharia de Software na UniCesumar e atuo como Estagiário de
 
 ---
 
-### 🛠️ Habilidades & Tecnologias
+###  Habilidades & Tecnologias
 
 #### 💻 Desenvolvimento & Programação
 - ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
