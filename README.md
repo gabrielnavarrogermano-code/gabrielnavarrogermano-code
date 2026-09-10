@@ -28,7 +28,7 @@ Sou estudante de Engenharia de Software na UniCesumar e atuo como Estagiário de
 - ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 📊 Organização & Visualização de Dados 
-- ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=power-bi&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- ![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=power-bi&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 #### 🔧 Versionamento de Código
 - ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
