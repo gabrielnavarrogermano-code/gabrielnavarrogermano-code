@@ -42,8 +42,6 @@ Sou estudante de Engenharia de Software na UniCesumar e atuo como Estagiário de
   <a href="https://github.com/gabrielnavarrogermano-code">
     <img height="150em" src="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&ring_color=ffffff" />
   </a>
-  <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielnavarrogermano-code&langs_count=5&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" />
-  </a>
   <img height="150em" src="https://streak-stats.demolab.com/?user=gabrielnavarrogermano-code&background=000000&text=ffffff&dates=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff" />
 </div>
 
