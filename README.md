@@ -7,7 +7,7 @@
 
 ### Gabriel Navarro Germano
 
-*Analista de Dados | Engenheiro de Software*
+*Análise de Dados | Engenharia de Software*
 
 Sou estudante de Engenharia de Software na UniCesumar e atuo como Estagiário de TI, desenvolvendo uma carreira voltada para o ecossistema de dados. Busco constantemente alinhar minha base acadêmica em engenharia com a área de Ciência de Dados, Inteligência Artificial e ferramentas de Business Intelligence.
 
@@ -15,7 +15,7 @@ Sou estudante de Engenharia de Software na UniCesumar e atuo como Estagiário de
 
 ###  Sobre o meu trabalho
 
-* **Análise e Visualização:** Experiência prática na estruturação de dados e criação de dashboards interativos para facilitar a tomada de decisão.
+* **Análise e Visualização:** Aprofundando meu conhecimento em estruturação, limpeza e organizacao de dados e criação de dashboards interativos para facilitar a tomada de decisão.
 * **Portfólio:** Este repositório reflete minha trajetória técnica, consolidando projetos práticos de modelagem, limpeza e extração de insights a partir de dados.
 * **Objetivo:** Atuar ativamente na construção de soluções orientadas a dados. Meu propósito é utilizar a tecnologia e a análise analítica para otimizar processos, identificar tendências e fornecer suporte estratégico para a geração de valor corporativo.
 
