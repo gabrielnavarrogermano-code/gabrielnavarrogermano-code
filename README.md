@@ -17,7 +17,7 @@ Sou estudante de Engenharia de Software na UniCesumar e atuo como Estagiário de
 
 ###  Sobre o meu trabalho
 
-* **Análise e Visualização:** Aprofundando meu conhecimento em estruturação, limpeza e tratamento de dados e criação de dashboards interativos para facilitar a tomada de decisão.
+* **Análise e Visualização:** Aprofundando meu conhecimento em estruturação, limpeza e tratamento de dados, e criação de dashboards interativos para facilitar a tomada de decisão.
 * **Objetivo:** Atuar ativamente na construção de soluções orientadas a dados. Meu propósito é utilizar a tecnologia e a análise analítica para otimizar processos, identificar tendências e fornecer suporte estratégico para a geração de valor corporativo.
 
 ---
