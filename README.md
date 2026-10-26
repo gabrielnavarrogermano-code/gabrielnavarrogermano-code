@@ -26,7 +26,7 @@ Sou estudante de Engenharia de Software na UniCesumar e atuo como Estagiário de
 
 #### 💻 Banco de Dados & Automação 
 - ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 📊 Organização & Visualização de Dados 
 - ![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
