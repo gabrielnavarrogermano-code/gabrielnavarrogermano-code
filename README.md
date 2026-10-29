@@ -37,8 +37,6 @@ Sou estudante de Engenharia de Software na UniCesumar e atuo como Estagiário de
 
 ---
 
-### 📊 Github Stats
-
 <div align="center">
   <a href="https://github.com/gabrielnavarrogermano-code">
     <img height="150em" src="https://github-stats-extended.vercel.app/api?username=gabrielnavarrogermano-code&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&ring_color=ffffff" />
